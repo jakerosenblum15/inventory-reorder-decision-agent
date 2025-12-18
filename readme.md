@@ -12,6 +12,7 @@ narrative explanation to improve transparency and reduce hallucination risk.
 git clone https://github.com/jakerosenblum15/inventory-reorder-decision-agent.git
 cd inventory-reorder-decision-agent
 python run_local.py inventory_template.csv
+```
 
 ## What This Does
 
