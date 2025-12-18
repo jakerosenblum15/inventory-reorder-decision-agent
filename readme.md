@@ -1,9 +1,4 @@
-## Quick Start
 
-```bash
-git clone https://github.com/jakerosenblum15/inventory-reorder-decision-agent.git
-cd inventory-reorder-decision-agent
-python run_local.py inventory_template.csv
 
 # Inventory Reorder Decision Agent
 
@@ -12,6 +7,13 @@ based on historical sales, current inventory, and supplier lead time.
 
 The system intentionally separates deterministic calculation logic from
 narrative explanation to improve transparency and reduce hallucination risk.
+
+## Quick Start
+
+```bash
+git clone https://github.com/jakerosenblum15/inventory-reorder-decision-agent.git
+cd inventory-reorder-decision-agent
+python run_local.py inventory_template.csv
 
 ## What This Does
 - Ingests daily sales data from a CSV file
