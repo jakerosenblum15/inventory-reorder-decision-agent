@@ -9,7 +9,6 @@ The system intentionally separates deterministic calculation logic from
 narrative explanation to improve transparency and reduce hallucination risk.
 
 ## Quick Start
-
 ```bash
 git clone https://github.com/jakerosenblum15/inventory-reorder-decision-agent.git
 cd inventory-reorder-decision-agent
@@ -33,7 +32,6 @@ CSV → Calculation Engine → Explanation → Human Review
 
 ## Future Extensions
 - Conversational agent interface (e.g., LLM-based)
-
 
 ## Usage
 
