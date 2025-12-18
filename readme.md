@@ -1,3 +1,10 @@
+## Quick Start
+
+```bash
+git clone https://github.com/jakerosenblum15/inventory-reorder-decision-agent.git
+cd inventory-reorder-decision-agent
+python run_local.py inventory_template.csv
+
 # Inventory Reorder Decision Agent
 
 A small, explainable decision-support tool that recommends inventory reorder actions
